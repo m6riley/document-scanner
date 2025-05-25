@@ -1,0 +1,1 @@
+A program using optical character recognition to parse out key details from medical test requisition files. Data was curated and passed to robotic process automation for automated data entry into hospital systems.
